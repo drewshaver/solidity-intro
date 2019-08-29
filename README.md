@@ -27,3 +27,4 @@ uint expiry; /* 1577836111 (New Years) */
 Token token;
 
 ```
+MIT license. This code is not suitable for any purposes except demonstration/educational.
